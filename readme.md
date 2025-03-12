@@ -38,7 +38,7 @@ This Python script scrapes news articles from the Anandabazar website, focusing 
    python script.py
    ```
 
-2. **Output**: The script will print the number of articles found for each keyword and their URLs.
+2. **Output**: The script will put the number of articles found for each keyword and their URLs inside a json file.
 
 ## Customization
 
