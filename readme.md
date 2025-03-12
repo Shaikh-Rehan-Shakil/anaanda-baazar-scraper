@@ -16,7 +16,7 @@ This Python script scrapes news articles from the Anandabazar website, focusing 
 - **Python 3.x**
 - **Selenium**: Install using `pip install selenium`
 - **BeautifulSoup4**: Install using `pip install beautifulsoup4`
-- **ChromeDriver**: Ensure ChromeDriver is installed and available in your system's PATH. Download the correct version for your Chrome browser from [ChromeDriver Downloads](https://sites.google.com/a/chromium.org/chromedriver/).
+- **ChromeDriver**: Ensure ChromeDriver is installed and available in your system's PATH. Download the correct version for your Chrome browser from [ChromeDriver Downloads](https://developer.chrome.com/docs/chromedriver/downloads).
 
 ### Installation
 
